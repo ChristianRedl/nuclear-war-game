@@ -1,0 +1,68 @@
+{
+    "ActionLimit": 15, 
+    "Attacks": [
+        {
+            "Announcement": null, 
+            "DeploymentTimeSec": 15, 
+            "Destruction": 5000000, 
+            "Location": null, 
+            "Name": "Intercontinental Hydrogen", 
+            "News": [
+                "Trump nuked {target}, {deaths} killed by the initial blast. {target_ruler} is confused about the unprovoked attack.", 
+                "The light of a thousand suns decented on {target}. Killing {deaths} souls in an instance."
+            ], 
+            "Quantity": 50, 
+            "TargetRegion": null
+        }, 
+        {
+            "Announcement": null, 
+            "DeploymentTimeSec": 1, 
+            "Destruction": 1, 
+            "Location": null, 
+            "Name": "Twitter", 
+            "News": [
+                "<b>Donald J. Trump</b> @realDonaldTrump {time}:<br/><p>{target_ruler} is an idiot. Just look at his hands, tiny! Total disaster!</p>", 
+                "<b>Donald J. Trump</b> @realDonaldTrump {time}:<br/><p>See you in court {target_ruler}!</p>", 
+                "<b>Donald J. Trump</b> @realDonaldTrump {time}:<br/><p>Look at the poor people in {target}! They let some bad people in. So sad!</p>"
+            ], 
+            "Quantity": 1000, 
+            "TargetRegion": null
+        }
+    ], 
+    "Defences": [
+        {
+            "Active": false, 
+            "Effectiveness": 50, 
+            "Name": "Star Wars", 
+            "News": [
+                "Laser in the sky."
+            ], 
+            "Quantity": 1, 
+            "Reliability": 10
+        }, 
+        {
+            "Active": false, 
+            "Effectiveness": 100, 
+            "Name": "NSA Cyber Defence", 
+            "News": [
+                "NSA intercepted some hackers. All is good."
+            ], 
+            "Quantity": 10, 
+            "Reliability": 5
+        }
+    ], 
+    "Description": "", 
+    "LoosingSpeech": [
+        "It was supposed to be great. Sad!"
+    ], 
+    "Name": "America First", 
+    "Picture": null, 
+    "Playable": true, 
+    "Regions": [
+        "USA"
+    ], 
+    "Ruler": "Donald J Trump", 
+    "WinningSpeech": [
+        "<p>It is gonna be Great!</p>"
+    ]
+}

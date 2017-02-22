@@ -1,0 +1,32 @@
+{
+    "ActionLimit": 12, 
+    "Attacks": [
+        {
+            "Announcement": null, 
+            "DeploymentTimeSec": 7, 
+            "Destruction": 2500000, 
+            "Location": null, 
+            "Name": "DF-41", 
+            "News": [
+                "China attacked {target}, {deaths} killed."
+            ], 
+            "Quantity": 50, 
+            "TargetRegion": null
+        }
+    ], 
+    "Defences": [], 
+    "Description": "", 
+    "LoosingSpeech": [
+        "You might have laid waste to China, but Kommunism will never die!"
+    ], 
+    "Name": "China", 
+    "Picture": null, 
+    "Playable": true, 
+    "Regions": [
+        "China"
+    ], 
+    "Ruler": "Xi Jinping", 
+    "WinningSpeech": [
+        "<p>All are equal under the red flag!</p>"
+    ]
+}

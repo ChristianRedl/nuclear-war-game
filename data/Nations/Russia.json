@@ -1,0 +1,59 @@
+{
+    "ActionLimit": 10, 
+    "Attacks": [
+        {
+            "Announcement": null, 
+            "DeploymentTimeSec": 10, 
+            "Destruction": 5000000, 
+            "Location": null, 
+            "Name": "ICBM R-7", 
+            "News": [
+                "Russia nuked {target}, {deaths} killed by the initial blast. {target_ruler} is in hiding and could not be found for a statement.", 
+                "R-7 Semyorka decending over {target} from Russia with love."
+            ], 
+            "Quantity": 50, 
+            "TargetRegion": null
+        }, 
+        {
+            "Announcement": [
+                "Russia is moving mobile launch platforms into positions along it's border. <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/19-03-2012-Parade-rehearsal_-_Topol-M.jpg/800px-19-03-2012-Parade-rehearsal_-_Topol-M.jpg\"/>."
+            ], 
+            "DeploymentTimeSec": 45, 
+            "Destruction": 2500000, 
+            "Location": null, 
+            "Name": "RT-2PM2 Topol-M", 
+            "News": [
+                "\u0440\u0430\u043a\u0435\u0442\u0430 \u0442\u0432\u0435\u0440\u0434\u043e\u0442\u043e\u043f\u043b\u0438\u0432\u043d\u0430\u044f \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0435 \u0442\u0430\u043a\u0442\u0438\u043a\u043e-\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438", 
+                "{deaths} died in {target}."
+            ], 
+            "Quantity": 10, 
+            "TargetRegion": null
+        }
+    ], 
+    "Defences": [
+        {
+            "Active": false, 
+            "Effectiveness": 50, 
+            "Name": "Radar", 
+            "News": [
+                "Russian Defences."
+            ], 
+            "Quantity": 1, 
+            "Reliability": 10
+        }
+    ], 
+    "Description": "", 
+    "LoosingSpeech": [
+        "\u041f\u0440\u043e\u0449\u0430\u0439"
+    ], 
+    "Name": "Russia", 
+    "Picture": null, 
+    "Playable": true, 
+    "Regions": [
+        "Russia"
+    ], 
+    "Ruler": "Vladimir Putin", 
+    "WinningSpeech": [
+        "Putin happy."
+    ]
+}

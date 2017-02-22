@@ -1,0 +1,62 @@
+{
+    "ActionLimit": 4, 
+    "Attacks": [
+        {
+            "Announcement": [
+                "England is launching one of it's <a href=\"https://en.wikipedia.org/wiki/Vanguard-class_submarine\">Vanguard Class</a> submarines."
+            ], 
+            "DeploymentTimeSec": 120, 
+            "Destruction": 2000000, 
+            "Location": "Scotland", 
+            "Name": "Trident", 
+            "News": [
+                "England nuked {target}, {deaths} killed by the initial blast. {target_ruler} sworn retribution.", 
+                "Special jam delivery for {target}"
+            ], 
+            "Quantity": 5, 
+            "TargetRegion": null
+        }, 
+        {
+            "Announcement": [
+                "<b>Brexit means Brexit</b>"
+            ], 
+            "DeploymentTimeSec": 45, 
+            "Destruction": -25000, 
+            "Location": null, 
+            "Name": "Brexit", 
+            "News": [
+                "Pound Sterling fell to under one US Dollar. Banks relocated to Frankfurt."
+            ], 
+            "Quantity": 1, 
+            "TargetRegion": "Germany"
+        }
+    ], 
+    "Defences": [
+        {
+            "Active": false, 
+            "Effectiveness": 50, 
+            "Name": "Radar", 
+            "News": [
+                "England started to feed lots of carrots to their marksmen. Who shot down the attack."
+            ], 
+            "Quantity": 5, 
+            "Reliability": 10
+        }
+    ], 
+    "Description": "A fromer empire frozen in time.", 
+    "LoosingSpeech": [
+        "England is buggered."
+    ], 
+    "Name": "The English Empire", 
+    "Picture": null, 
+    "Playable": true, 
+    "Regions": [
+        "England", 
+        "Scotland"
+    ], 
+    "Ruler": "Theresa May", 
+    "WinningSpeech": [
+        "<p>Rule Britannia!</p>", 
+        "Bringing innovative British jam to the world."
+    ]
+}

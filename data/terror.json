@@ -1,0 +1,57 @@
+[
+    {
+        "Destruction": 50, 
+        "Location": null, 
+        "Name": "Terror Attack", 
+        "News": [
+            "Terror Attack in {target} resulted in {deaths} deaths.", 
+            "IS beheaded {deaths} infidels in {target}."
+        ], 
+        "Quantity": 20, 
+        "TargetRegion": null
+    }, 
+    {
+        "Destruction": 500, 
+        "Location": null, 
+        "Name": "Hack", 
+        "News": [
+            "Hackers turned off the central heating in {target}. {deaths} people froze to death.", 
+            "Hackers crashed the stock markets. {deaths} people lost their homes in {target} and got evicted."
+        ], 
+        "Quantity": 10, 
+        "TargetRegion": null
+    }, 
+    {
+        "Destruction": 10000, 
+        "Location": null, 
+        "Name": "Nature", 
+        "News": [
+            "{deaths} killed in an earthquake in {target}."
+        ], 
+        "Quantity": 10, 
+        "TargetRegion": null
+    }, 
+    {
+        "Destruction": 6000, 
+        "Location": null, 
+        "Name": "Industrial Accidents", 
+        "News": [
+            "<b>Fracking accident in {target}.</b><br/>As reports now indicate toxic chemicals were released into the groundwater. So far {deaths} deaths were linked to the incident.", 
+            "<a href=\"http://www.forbes.com/sites/christopherhelman/2013/01/23/fracking-for-uranium/\">{target} started fracking for uranium.</a>", 
+            "<b>Plane Crash.</b><br/>On {time}, shortly after takeoff a 787 Dreamliner crashed into a city in {target}. So far {deaths} bodies have been recovered.", 
+            "<b>Oil Spill in {target}.</b><br/>BP issued a statement stating that they are very sorry about it."
+        ], 
+        "Quantity": 10, 
+        "TargetRegion": null
+    }, 
+    {
+        "Destruction": -100000, 
+        "Location": null, 
+        "Name": "Migration", 
+        "News": [
+            "{deaths} refugees arrived in {target}."
+        ], 
+        "Quantity": 10, 
+        "TargetRegion": null
+    }
+]

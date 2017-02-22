@@ -1,0 +1,43 @@
+{
+    "Regions": [
+        {
+            "Name": "Russia", 
+            "News": null, 
+            "Population": 143000000
+        }, 
+        {
+            "Name": "USA", 
+            "News": null, 
+            "Population": 320000000
+        }, 
+        {
+            "Name": "China", 
+            "News": null, 
+            "Population": 1300000000
+        }, 
+        {
+            "Name": "England", 
+            "News": null, 
+            "Population": 50000000
+        }, 
+        {
+            "Name": "Germany", 
+            "News": null, 
+            "Population": 80000000
+        }, 
+        {
+            "Name": "Scotland", 
+            "News": [
+                "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Highland_Cattle_4.jpg/250px-Highland_Cattle_4.jpg\"/><br/>The Highland cattle goes extinct."
+            ], 
+            "Population": 5000000
+        }, 
+        {
+            "Name": "Switzerland", 
+            "News": [
+                "The peaceful Switzerland has been annihilate."
+            ], 
+            "Population": 8000000
+        }
+    ]
+}
